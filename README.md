@@ -1,2 +1,3 @@
 # Hack_Lab
- A place were ideas about seciruty hacking and pentesting is shared 
+
+ A place were ideas about security hacking and penetration test is shared.
